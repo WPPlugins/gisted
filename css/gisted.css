@@ -1,0 +1,8 @@
+.gist   { margin: 1em; width: 100%; overflow: hidden; }
+.gist-header   { padding: 1em 0; width: 100%; overflow: hidden; }
+.gist-header h4   { float: left; }
+.gisted-file h5   { display: inline; }
+.gist-author   { width: 100%; }
+.gist-info   { width: 75%; float: left }
+.gist-link   { float: left; clear: left; }
+.gist-author-avatar {  margin: .7em 0; max-width: 25%; float: right; }
